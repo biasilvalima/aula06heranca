@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\bin\Debug\netcoreapp3.1\aula06heranca.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula06heranca\obj\Debug\netcoreapp3.1\aula06heranca.genruntimeconfig.cache
